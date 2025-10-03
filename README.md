@@ -26,20 +26,3 @@ A simple open-source **stresser/load-testing website** skeleton for learning how
 
 ---
 
-## 🚀 Quickstart (Example)
-> Copy & paste the code block below to get started:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Stresser-Website-Open-Source.git
-cd Stresser-Website-Open-Source
-# backend
-cd server
-npm install
-# frontend
-cd ../client
-npm install
-# start both
-# in server terminal:
-node index.js
-# in client terminal:
-npm start
